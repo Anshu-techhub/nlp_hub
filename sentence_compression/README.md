@@ -55,6 +55,6 @@ And also, `eval_results.csv` containing predictions of evaluation file.
 2. https://huggingface.co/docs/transformers/en/tasks/summarization 
 
 ### Note:
-Download trained checkpoint from given drive link [checkpoint](https://drive.google.com/drive/folders/1yrl0VtmM9BtT4aU2Z5vLs6doz35MMxvM?usp=drive_link)
+Download trained [checkpoint](https://drive.google.com/drive/folders/1yrl0VtmM9BtT4aU2Z5vLs6doz35MMxvM?usp=drive_link) from given drive link and add here in current directory.
 
 
